@@ -1,0 +1,520 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="content-Style-Type" content="text/css">
+  <meta http-equiv="content-Script-Type" content="text/javascript">
+  <title>Instruction and data list - 峠野郎 TougeYarou</title>
+  <meta name="robots" content="index,follow">
+  <meta name="description" content="峠野郎の各種情報">
+  <meta name="keywords" content="御手軽T,峠野郎">
+  <link rel="stylesheet" type="text/css" href="../css/default.css">
+  <link rel="stylesheet" type="text/css" href="../css/o/t/e/otegarut/design.css" media="all">
+  <link rel="stylesheet" type="text/css" href="../css/110405header_menu.css">
+  <script type="text/javascript" src="../js/default.js?20130417"></script>
+
+</head>
+<!-- liquid2 -->
+<body id="body_liquid2">
+<div id="block_inclusion">
+	<div id="header">
+		<p><a title="home" href="../index.htm">峠野郎 TougeYarou</a></p>
+	</div><!--/header-->
+  <div id="wrap">
+    <div id="container">
+      <div id="main">
+
+				<div class="section">
+					<div class="user_header page_title">
+						<h1>Instruction and data list</h1>
+					</div>
+					<script language="javascript" type="text/javascript">
+					$(function(){
+						var isLogin = $('#fc2wikimenu_login').length?false:true;
+						var isUnlock = $('#page_delete').length?true:false;
+						if(isLogin && isUnlock) {
+							$('h2>a.anchor_super,h3>a.anchor_super,h4>a.anchor_super').show();
+						}
+					})
+					</script>
+					<div class="user_body">
+						
+<div><a title="命令およびデータ一覧" href="%E5%91%BD%E4%BB%A4%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%80%E8%A6%A7.html">日本語</a></div>
+<br>
+
+<h2 id="e146fc01">data form</h2>
+
+
+<h3 id="sbaea5f2">【Premise】</h3>
+
+<div>In this game, the stage creates a path by arranging several map chips in order.</div>
+<div>Other than LoadStage mode, random arrangement is performed.</div>
+<div>In this mode, you can create your own stages by specifying the order in which the map chips appear.</div>
+<br>
+<br>
+
+<h3 id="z0e51c9a">【Overview】</h3>
+
+<div>It is a comma separated format. Read from the beginning of the text.</div>
+<div>Data consists of instructions and map chips. Also supports comments (notes that do not affect the stage layout)</div>
+
+<h3 id="ae4a86f3">Map chip</h3>
+
+<div>Consists of three digits.</div>
+<div> </div>
+<div class="openclose"><p class="area_close"><span class="tree_title">Detailed information</span></p><div class="openclose_div" style="display:none;">
+<br>
+
+<h4 id="g79b8408">order</h4>
+
+Starts with #. Place sections and perform special processing.<br>
+<br>
+
+<h4 id="h6147c16">comment</h4>
+
+Starts with%. However, since this is also data, it must be closed with &quot;,&quot; (comma).<br>
+If you've ever created this kind of data, you'll know it, but it's useful if you can make notes.<br>
+<br>
+</div></div>
+<br>
+
+<h2 id="v7eeee5b">grammar</h2>
+
+<div>Map chip</div>
+<div>Three digits indicate map type, left / right, up / down.</div>
+<br>
+
+<h3 id="gd411676">Chip list</h3>
+
+<div class="openclose"><p class="area_close"><span class="tree_title">Detailed information</span></p><div class="openclose_div" style="display:none;">
+
+<h4 id="i4c29a3a">Map type</h4>
+
+0: straight line<br>
+1: Curve 1<br>
+2: Curve 2 (over the groove)<br>
+3: Hairpin turn<br>
+4: Curve 3 (groove drop) (v3.6 corresponding later)<br>
+5: Bridge (Downhill only)<br>
+9: Rest area<br>
+
+<h4 id="wf8279d9">Left and right</h4>
+
+0: Right 1: Left<br>
+
+<h4 id="i9359dbc">Top and bottom</h4>
+
+0: Down 1: Up<br>
+<br>
+Example)<br>
+For 100 mm, the map type indicates curve 1, right, and down.
+</div></div>
+<br>
+
+<h3 id="m1168c94">order</h3>
+
+<div class="openclose"><p class="area_close"><span class="tree_title">Detailed information</span></p><div class="openclose_div" style="display:none;">
+
+<h4 id="q022a671">#SECTION</h4>
+
+Place the section pole. Section time can be measured.<br>
+
+<h4 id="l910da6f">#STOP</h4>
+
+Place the barricade and prevent it from going further.  Data can be written after this instruction.<br>
+<pre>Also, if you place it at the beginning of the data, you can prevent it from moving to the front of the starting point.</pre>
+
+<h4 id="oe9c7c3a">#CONE</h4>
+
+Place a triangular cone. I wonder if it can be used for folding back.<br>
+
+<h4 id="x52f98a9">#SCALExxx</h4>
+
+If you write a number in xxx, the size of subsequent map chips will be xxx% times the size of the first one.<br>
+For example, # SCALE200 is twice the size = twice the road width, and # SCALE75 is 0.75 times the size.<br>
+It is also possible to put a space like &quot;#SCALE 150 ,&quot;.<br>
+We Use it at Mt.Haruna.<br>
+
+<h4 id="h2734572">#POFSXxxx #POFSYxxx #POFSZxxx</h4>
+
+This is Position Offset. If you put a number (sign and decimal point are allowed) in &quot;xxx,&quot;<br>
+Next, shift the position of the map chip (including section and triangular cone) by &quot;xxx&quot; in the direction of the specified coordinate axis.<br>
+For example,<br>
+&quot;000, # POFSY-1.5,000,&quot;<br>
+In the case of, the joint between the straight (000) and the straight map tip moves -1.5 in the Y-axis direction, so there is a step with a height of 1.5.<br>
+Also, try using &quot;Slalom&quot;, a stage example where a cone is placed in the middle of a map chip. (This is the main purpose order)<br>
+Note that movement is an absolute coordinate in the game. (Does not consider the direction of the road immediately before)<br>
+
+<h4 id="haa46045">#ROFSXxxx #ROFSYxxx #ROFSZxxx</h4>
+
+This is Rotation offset. A rotated version of the above POFS. We don't usually use it, but we hope that someone will do something use weird.<br>
+
+<h4 id="c6bec00b">#OBJ (supported after ver.5.0.0)</h4>
+
+Command for loading StageMOD.<br>
+As soon as this command is executed, the obj file loading screen will be displayed. Please check What is StageMOD<br>
+​​for details .<br>
+
+<h4 id="r83602a8">#OBJ &lt;url&gt; (supported since ver.5.0.0)</h4>
+
+Used when combining stage data and StageMOD.<br>
+Also use this when using StageMOD ​​in event mode. (Not relevant to general players)<br>
+Load StageMOD ​​via web streaming.<br>
+For example, if you want to use the StageMOD<br>
+​​<a href="https://otegarut.wiki.fc2.com/sample.obj" title="https://otegarut.wiki.fc2.com/sample.obj">https://otegarut.wiki.fc2.com/sample.obj</a> , use #OBJ <a href="https://otegarut.wiki.fc2.com/sample" title="https://otegarut.wiki.fc2.com/sample">https://otegarut.wiki.fc2.com/sample</a> . See StageMOD ​​from URL for details .<br>
+<br>
+
+<h4 id="u87d4154">#LAMPR #LAMPL　(ver.3.4 corresponding later)</h4>
+
+You can put a street light on the way. If you add too much, the processing may be a little heavy.<br>
+Lights regardless of day or night. I will fix it soon.<br>
+<br>
+
+<h4 id="y96ca9eb">#RAIN (supported after ver.4.29)</h4>
+
+Change the weather to rain. The behavior of the car will also change.<br>
+<br>
+
+<h4 id="hcddbf05">#VS xx</h4>
+
+Make CP cars appear in LoadStage mode.<br>
+Write it at the beginning of the stage data.<br>
+Also, the total course length is up to 1000 data.<br>
+If the xx part is -1, the car model is random, and if you write the number in VScp, you can specify the car.<br>
+<br>
+
+<h4 id="b029b99c">#BLOOM xx (supported after ver.5.0.0)</h4>
+
+This is a temporary workaround for lighting issues.<br>
+Solves the white glare problem when the weather is daytime setting.<br>
+Specifically, by inserting #BLOOM 1, the bloom expression is weakened and the glare is reduced.<br>
+It is assumed to be used in combination with StageMOD.<br>
+<br>
+
+<h4 id="t60c0aef">#CAMERAFAR xx (supported after ver.5.0.0)</h4>
+
+It is a command to change the drawing distance of the camera.<br>
+If you prepare a large circuit with StageMOD ​​etc., it is used when the distant view is not drawn and it is unnatural.<br>
+Specifically, #CAMERAFAR 300. The standard value is about 100 to 400.<br>
+The higher the number, the heavier the processing of the game. Please be careful when using.
+</div></div>
+<br>
+
+<h3 id="uefd44bb">comment</h3>
+
+<div>Can be used by data designers to create notes.</div>
+<div>It can be written as &quot;% xxxxx&quot;. Be careful not to forget the trailing comma.</div>
+<br>
+<br>
+
+<h2 id="q0d6a6da">Confirmed bugs</h2>
+
+<div>In theory, it is possible to create orbiting stages,</div>
+<div>Each time you place a part, the error accumulates and you may not always be able to place map chips in the same place after one lap.</div>
+<br>
+
+					</div>
+					<!--/user_body-->
+					<div class="modify_date">
+						<ul>
+							<li>最終更新:2023-07-27 14:05:47</li>
+						</ul>
+					</div>
+				</div>
+        <div id="pagetop"><a href="#header" title="このページの上へ戻る">ページトップ</a></div>
+      </div>
+    </div>
+    <div id="menu" class="menubox">
+
+			<div class="section" id="plg_menu">
+				<div class="side_title">
+					<h3>メニュー</h3>
+				</div>
+				<div class="menubody">
+<div><a title="Top page" href="Top%20page.html">In English</a></div>
+<br>
+<div><a title="トップページ" href="%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8-1.html">トップページ</a></div>
+<br>
+
+<h2 id="menuoe62c55e">遊び方 How to play</h2>
+
+<ul>
+    <li class="ulist1"><a title="ゲームについて" href="%E3%82%B2%E3%83%BC%E3%83%A0%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.html">ゲームについて</a></li>
+    <li class="ulist1"><a title="https://youtu.be/uJ6LTdyRyyQ" href="/jump/https/youtu.be%2FuJ6LTdyRyyQ" class="jump" target="_blank">テク解説動画</a></li>
+</ul>
+
+
+<br>
+
+<h2 id="menuoc4a9bd8">お知らせ</h2>
+
+<ul>
+    <li class="ulist1"><a title="アプデ情報" href="%E3%82%A2%E3%83%97%E3%83%87%E6%83%85%E5%A0%B1.html">アプデ情報</a></li>
+    <li class="ulist1"><a title="開発者のひとりごと" href="%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AE%E3%81%B2%E3%81%A8%E3%82%8A%E3%81%94%E3%81%A8.html">開発者のひとりごと</a></li>
+    <li class="ulist1"><a title="Wikiからのお知らせ" href="wiki%E3%81%8B%E3%82%89%E3%81%AE%E3%81%8A%E7%9F%A5%E3%82%89%E3%81%9B.html">Wikiからのお知らせ</a></li>
+</ul>
+
+
+<br>
+
+<h2 id="menuzae5ea19">Time Attack モード</h2>
+
+
+<h3 id="menuy65f02c9">このモードについて</h3>
+
+<ul>
+    <li class="ulist1"><a title="Time Attack モード" href="Time%20Attack%20%E3%83%A2%E3%83%BC%E3%83%89.html">Time Attack モード</a></li>
+</ul>
+
+
+<br>
+
+<h2 id="menuv68c7dca">vsCPモード</h2>
+
+
+<h3 id="menuf1487ab7">このモードについて</h3>
+
+<ul>
+    <li class="ulist1"><a title="レース対CP" href="%E3%83%AC%E3%83%BC%E3%82%B9%E5%AF%BECP.html">レース対CP</a></li>
+</ul>
+
+
+<br>
+
+<h2 id="menuweeee990">Load Stage モード</h2>
+
+
+<h3 id="menumc065403">このモードについて</h3>
+
+<ul>
+    <li class="ulist1"><a title="使い方" href="%E4%BD%BF%E3%81%84%E6%96%B9.html">使い方</a></li>
+</ul>
+
+
+
+<h3 id="menus01bee7b">データ形式</h3>
+
+<ul>
+    <li class="ulist1"><a title="命令およびデータ一覧" href="%E5%91%BD%E4%BB%A4%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%80%E8%A6%A7.html">命令およびデータ一覧</a></li>
+    <li class="ulist1"><a title="ステージ例" href="%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E4%BE%8B.html">ステージ例</a></li>
+</ul>
+
+
+
+<h3 id="menug52ed384">ステージデータ公開広場 &lt;Share stage&gt;</h3>
+
+<ul>
+    <li class="ulist1"><a title="ステージデータ公開広場(編集可能)" href="%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%87%E3%83%BC%E3%82%BF%E5%85%AC%E9%96%8B%E5%BA%83%E5%A0%B4%28%E7%B7%A8%E9%9B%86%E5%8F%AF%E8%83%BD%29.html">ステージデータ公開広場(編集可能)</a></li>
+</ul>
+
+
+<pre>Share stage data!</pre>
+<ul>
+    <li class="ulist1"><a title="投稿方法" href="%E6%8A%95%E7%A8%BF%E6%96%B9%E6%B3%95.html">投稿方法</a></li>
+</ul>
+
+
+<pre>How to share</pre>
+<br>
+
+<h2 id="menuddf58c48">Online モード</h2>
+
+<div><a title="オンラインモードについて" href="%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3%E3%83%A2%E3%83%BC%E3%83%89%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.html">オンラインモードについて</a></div>
+<br>
+
+<h2 id="menupd123bca">MOD</h2>
+
+
+<h3 id="menuze85f7f7">Car MOD</h3>
+
+<ul>
+    <li class="ulist1"><a title="Car MODとは" href="Car%20MOD%E3%81%A8%E3%81%AF.html">Car MODとは</a></li>
+    <li class="ulist1"><a title="Car MODの使い方" href="Car%20MOD%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9.html">Car MODの使い方</a></li>
+    <li class="ulist1"><a title="Car MODの作り方" href="Car%20MOD%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9.html">Car MODの作り方</a></li>
+    <li class="ulist1"><a title="Car MOD 配布広場" href="Car%20MOD%20%E9%85%8D%E5%B8%83%E5%BA%83%E5%A0%B4.html">Car MOD 配布広場</a></li>
+</ul>
+
+
+<br>
+<br>
+
+<h3 id="menul4603ba8">Stage MOD</h3>
+
+<ul>
+    <li class="ulist1"><a title="StageMODとは" href="StageMOD%E3%81%A8%E3%81%AF.html">StageMODとは</a></li>
+    <li class="ulist1"><a title="StageMODの使い方" href="StageMOD%E3%81%AE%E4%BD%BF%E3%81%84%E6%96%B9.html">StageMODの使い方</a></li>
+    <li class="ulist1"><a title="StageMODの作り方" href="StageMOD%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9.html">StageMODの作り方</a></li>
+    <li class="ulist1"><a title="StageMOD from URL" href="StageMOD%20from%20URL.html">StageMOD from URL</a></li>
+    <li class="ulist1"><a title="StageMOD 配布広場" href="StageMOD%20%E9%85%8D%E5%B8%83%E5%BA%83%E5%A0%B4.html">StageMOD 配布広場</a></li>
+</ul>
+
+
+<br>
+<br>
+
+<h2 id="menui01f8ce9">掲示板 comments</h2>
+
+<ul>
+    <li class="ulist1"><a title="掲示板" href="%E6%8E%B2%E7%A4%BA%E6%9D%BF.html">掲示板</a></li>
+</ul>
+
+
+<br>
+
+<h2 id="menuf0311073">困った時は</h2>
+
+<ul>
+    <li class="ulist1"><a title="確認済みのバグ" href="%E7%A2%BA%E8%AA%8D%E6%B8%88%E3%81%BF%E3%81%AE%E3%83%90%E3%82%B0.html">確認済みのバグ</a></li>
+    <li class="ulist1"><a title="Q＆A" href="Q%EF%BC%86A.html">Q＆A</a></li>
+</ul>
+
+
+<br>
+
+<h2 id="menut24fa106">バグを見つけた方は</h2>
+
+<ul>
+    <li class="ulist1"><a title="バグ報告ページ" href="%E3%83%90%E3%82%B0%E5%A0%B1%E5%91%8A%E3%83%9A%E3%83%BC%E3%82%B8.html">バグ報告ページ</a></li>
+</ul>
+
+
+<div><a title="https://discord.gg/MN3DfCPMSf" href="/jump/https/discord.gg%2FMN3DfCPMSf" class="jump" target="_blank">公式discord</a>でも受け付けています</div>
+<br>
+
+<h2 id="menud798c37f">リンク</h2>
+
+<ul>
+    <li class="ulist1"><a title="https://play.google.com/store/apps/details?id=com.ryuukunkoubou.touge" href="/jump/https/play.google.com%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.ryuukunkoubou.touge" class="jump" target="_blank">GooglePlay</a></li>
+    <li class="ulist1"><a title="https://apps.apple.com/jp/app/%E5%BE%A1%E6%89%8B%E8%BB%BDt/id1539149365" href="/jump/https/apps.apple.com%2Fjp%2Fapp%2F%25E5%25BE%25A1%25E6%2589%258B%25E8%25BB%25BDt%2Fid1539149365" class="jump" target="_blank">AppStore</a></li>
+    <li class="ulist1"><a title="https://twitter.com/ryuukunkoubou" href="/jump/https/twitter.com%2Fryuukunkoubou" class="jump" target="_blank">開発者Twitter</a></li>
+    <li class="ulist1"><a title="http://ryuukun.web.fc2.com/" href="/jump/http/ryuukun.web.fc2.com%2F" class="jump" target="_blank">りゅうくんの工房</a></li>
+    <li class="ulist1"><a title="https://ryuukun.web.fc2.com/prcy/ote" href="/jump/https/ryuukun.web.fc2.com%2Fprcy%2Fote" class="jump" target="_blank">ゲーム利用規約</a></li>
+    <li class="ulist1"><a title="https://discord.gg/MN3DfCPMSf" href="/jump/https/discord.gg%2FMN3DfCPMSf" class="jump" target="_blank">公式discord</a></li>
+    <li class="ulist1"><a title="https://github.com/ryk122/OtegaruT" href="/jump/https/github.com%2Fryk122%2FOtegaruT" class="jump" target="_blank">github</a></li>
+</ul>
+
+
+
+<h2 id="menuqb1c9032">検索</h2>
+
+<form method="get" action="/"><input type="text" name="q"><input type="submit" value="検索する"><input type="hidden" value="search" name="cmd"></form>
+<br>
+</div>
+			</div>			<div class="section" id="plg_recent">
+				<div class="side_title">
+					<h3>最近の更新</h3>
+				</div>
+				<div class="menubody">
+					<p class="modify_date">2024/03/20</p>
+					<ul>
+						<li title="更新日時:2024/03/20 14:02:56"><a href="How%20to%20create%20a%20StageMOD.html">How to create a StageMOD</a></li>
+					</ul>
+					<p class="modify_date">2024/03/16</p>
+					<ul>
+						<li title="更新日時:2024/03/16 02:02:28"><a href="How%20to%20create%20a%20Car%20MOD.html">How to create a Car MOD</a></li>
+					</ul>
+					<p class="modify_date">2024/02/17</p>
+					<ul>
+						<li title="更新日時:2024/02/17 11:11:29"><a href="Car%20MOD%20%E9%85%8D%E5%B8%83%E5%BA%83%E5%A0%B4.html">Car MOD 配布広場</a></li>
+					</ul>
+					<p class="modify_date">2024/01/21</p>
+					<ul>
+						<li title="更新日時:2024/01/21 20:08:50"><a href="Car%20MOD%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9.html">Car MODの作り方</a></li>
+					</ul>
+					<p class="modify_date">2024/01/20</p>
+					<ul>
+						<li title="更新日時:2024/01/20 19:07:24"><a href="%E3%83%88%E3%83%83%E3%83%97%E3%83%9A%E3%83%BC%E3%82%B8-1.html">トップページ</a></li>
+						<li title="更新日時:2024/01/20 18:06:53"><a href="Top%20page.html">Top page</a></li>
+						<li title="更新日時:2024/01/20 18:06:12"><a href="About%20the%20game.html">About the game</a></li>
+						<li title="更新日時:2024/01/20 18:06:54"><a href="What%20is%20StageMOD%20about.html">What is StageMOD about</a></li>
+					</ul>
+					<p class="modify_date">2023/12/24</p>
+					<ul>
+						<li title="更新日時:2023/12/24 13:01:57"><a href="../comment/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%881/index.htm">コメント1</a></li>
+					</ul>
+					<p class="modify_date">2023/12/17</p>
+					<ul>
+						<li title="更新日時:2023/12/17 12:12:27"><a href="Update%20News.html">Update News</a></li>
+						<li title="更新日時:2023/12/17 12:12:46"><a href="%E3%82%A2%E3%83%97%E3%83%87%E6%83%85%E5%A0%B1.html">アプデ情報</a></li>
+					</ul>
+					<p class="modify_date">2023/10/29</p>
+					<ul>
+						<li title="更新日時:2023/10/29 14:02:07"><a href="%E3%83%AC%E3%83%BC%E3%82%B9%E5%AF%BECP.html">レース対CP</a></li>
+						<li title="更新日時:2023/10/29 14:02:48"><a href="Race%20vs%20CP.html">Race vs CP</a></li>
+						<li title="更新日時:2023/10/29 14:02:23"><a href="Developer%27s%20Soliloquy.html">Developer's Soliloquy</a></li>
+					</ul>
+					<p class="modify_date">2023/10/28</p>
+					<ul>
+						<li title="更新日時:2023/10/28 16:04:12"><a href="%E5%91%BD%E4%BB%A4%E3%81%8A%E3%82%88%E3%81%B3%E3%83%87%E3%83%BC%E3%82%BF%E4%B8%80%E8%A6%A7.html">命令およびデータ一覧</a></li>
+					</ul>
+					<p class="modify_date">2023/08/21</p>
+					<ul>
+						<li title="更新日時:2023/08/21 07:07:49"><a href="%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B8%E3%83%87%E3%83%BC%E3%82%BF%E5%85%AC%E9%96%8B%E5%BA%83%E5%A0%B4%2528%E7%B7%A8%E9%9B%86%E5%8F%AF%E8%83%BD%29.html">ステージデータ公開広場(編集可能)</a></li>
+					</ul>
+					<p class="modify_date">2023/07/27</p>
+					<ul>
+						<li title="更新日時:2023/07/27 14:02:47"><a href="Instruction%20and%20data%20list.html">Instruction and data list</a></li>
+						<li title="更新日時:2023/07/27 00:12:11"><a href="%E4%BD%BF%E3%81%84%E6%96%B9.html">使い方</a></li>
+					</ul>
+					<p class="modify_date">2023/07/26</p>
+					<ul>
+						<li title="更新日時:2023/07/26 23:11:11"><a href="How%20to%20use%20LoadStage.html">How to use LoadStage</a></li>
+					</ul>
+					<p class="modify_date">2023/07/24</p>
+					<ul>
+						<li title="更新日時:2023/07/24 23:11:17"><a href="StageMOD%E3%81%AE%E4%BD%9C%E3%82%8A%E6%96%B9.html">StageMODの作り方</a></li>
+					</ul>
+				</div><!-- /div.menubody -->
+			</div><!-- /div#plg_recent.section-->
+			<div class="section" id="plg_free_2">
+				<div class="menubody"><!-- FC2カウンター ここから -->
+<script language="javascript" type="text/javascript" src="../counter.php?id=89481492"></script><noscript><img src="../counter_img.php?id=89481492"></noscript>
+<!-- FC2カウンター ここまで --></div>
+			</div>
+    </div>
+  </div>
+  <div id="footer">
+
+			<p class="ad">Powered by <a href="http://wiki.fc2.com/" title="FC2WIKIホーム">FC2ウィキ 無料wikiレンタル</a></p>
+			<p class="copyright">Copyright (c) 峠野郎 TougeYarou. All Rights Reserved.</p>
+  </div>
+</div><!--/block_inclusion-->
+<!-- header menu -->
+	<div id="fc2wikimenu">
+		<div class="fc2wikimenu_body">
+			<ul id="header_menu">
+				<li class="parent" id="fc2wikimenu_home"><a href="javascript:void(0);" title="クリックでメニューを開く"><span class="menuopen">FC2メニュー</span></a>
+					<ul id="wikimenu_sub0">
+						<li><a href="http://wiki.fc2.com" target="_blank" title="FC2WIKIトップページへ">FC2WIKIホーム</a></li>
+						<li><a href="https://id.fc2.com/?done=wiki&switch_language=ja" target="_blank" title="FC2WIKIトップページへ">WIKIログイン</a></li>
+						<li><a href="https://id.fc2.com/" target="_blank" title="FC2WIKIトップページへ">FC2IDへ</a></li>
+					</ul>
+				</li>
+				<li id="fc2wikimenu_login">
+					<a href="../index-37.htm?cmd=auth&amp;page=Instruction%20and%20data%20list" title="認証ページへ">WIKI編集</a>
+				</li>
+			</ul>
+			<div id="admin_auth">
+				<p>このWIKIを編集するにはパスワード入力が必要です</p>
+				認証パスワード
+				<input name="pid" type="hidden" value="17163865">
+				<input name="pass" type="password" value="" class="password_form">
+				<input name="mode" type="hidden" value="">
+				<button>送信</button>
+			</div>
+			<div id="search_rss">
+				<div class="wiki_search">
+					<form action="/" method="get">
+						<input name="cmd" value="search" type="hidden">
+						<input class="search_form" name="q" type="text">
+						<input class="search_btn" value="検索" onclick="void(this.form.submit());return false" type="button">
+					</form>
+				</div>
+			</div>
+		</div>
+	</div>
+
+<!-- /header menu -->
+</body>
+</html>
+<!-- s --><!-- 0.0188968 -->

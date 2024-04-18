@@ -1,0 +1,1013 @@
+﻿/****************************************
+	https://otegarut.wiki.fc2.com/
+	is liquid: true
+	column type: 
+	modified: 2019-10-28 13:51:08
+****************************************/
+@charset "utf-8";
+
+/* Index ++++++++++++++++++++++++++++++++
+
+	Layout:Liquid2-Left
+	
+	Reset
+	Default
+		-Hyper text
+		-Headline
+		-Table, Form
+	Layout
+	Header
+	Main (Common Setting)
+		-Page Title
+		-User Page style
+		-Pager
+		-Page Edit
+		-History Page
+		-Management (Image,Page)
+		-Search Result
+	View pass
+	Side menu
+	Footer
+
++++++++++++++++++++++++++++++++++++++++ */
+
+
+
+/* =Reset
+------------------------------------------------- */
+
+html,body,div,
+dl,dt,dd,ul,ol,li,
+h1,h2,h3,h4,h5,h6,
+pre,form,fieldset,input,textarea,
+blockquote,th,td,p {
+	margin: 0;
+	padding: 0;
+}
+
+ul, ol, li, dl, dt, dd {
+	list-style: none;
+}
+
+img,
+a img {
+	border: none;
+}
+
+
+
+/* =Default
+------------------------------------------------- */
+
+body {
+	background: #FFFFFF url(../../../../../design/default_black/images/bg.png) repeat 0 0;
+	color: #3F3F3F;
+	text-align: center;
+	font-family: Verdana, Ariel, Helvetica,'ＭＳ Ｐゴシック',sans-serif;
+	line-height: 1.4;
+	word-break: break-all;
+	font-size: 82%;
+}
+
+html>/**/body {
+	font-size: 13px;
+}
+
+* html body {
+    font-family: "ＭＳ Ｐゴシック", sans-serif;						/* WinIE6 */
+}
+
+*:first-child+html body {
+    font-family: "メイリオ", Meiryo, "ＭＳ Ｐゴシック", sans-serif;	/* WinIE7 */
+}
+
+
+
+/* =Hyper text
+------------------------------------------------- */
+
+a { 
+	text-decoration: none;
+	/**/
+	overflow: hidden;	/* for Fx */
+	/**/
+}
+
+a:link,
+a:visited {
+	color: #806BDD;
+}
+
+a:focus,
+a:hover,
+a:active {
+	color: #5D52A8;
+}
+
+
+
+/* =Headline
+------------------------------------------------- */
+
+h1 {
+	font-size: 139%;	/* 18px */
+}
+
+h2 {
+	font-size: 116%;	/* 15px */
+}
+
+h3,
+h4 {
+	font-size: 108%;	/* 14px */
+}
+
+h5,h6 {
+	font-size: 100%;	/* 13px */
+}
+
+
+
+/* =Table, Form
+------------------------------------------------- */
+
+table {
+	border-collapse: collapse;
+	border-collapse: separate;
+	border-spacing: 0;
+}
+
+input,textarea,select {
+	padding: 1px 3px;
+}
+
+
+
+/* =Layout
+------------------------------------------------- */
+
+#header {
+	width: 100%;
+	position: relative;
+}
+
+#wrap {
+	width: 100%;
+	min-width: 850px;
+	max-width: 1200px;
+	margin: 0 auto;
+	padding: 20px 0;
+}
+
+#wrap:after {
+	content: "";
+	overflow: hidden;
+	display: block;
+	clear: both;
+	height: 0;
+}
+
+/**/
+* html #wrap {
+	overflow: visible;
+	height: 1%;
+}
+/**/
+
+#vpass {
+	width: 750px;
+	margin: 20px auto;
+}
+
+#container {
+	float: right;
+	width: 100%;
+	margin-left: -220px;
+}
+
+#main {
+	margin-left: 220px;
+	overflow: hidden;
+	clear: both;
+}
+
+#menu {
+	float: left;
+	width: 200px !important;
+	width /*for IE5.5*/: 220px;
+	padding: 0px 20px 20px20px;
+	overflow: hidden;
+}
+
+#footer {
+	clear: both;
+	width: 100%;
+	position: relative;
+	overflow: hidden;
+}
+
+
+
+/* =Header
+------------------------------------------------- */
+
+#header {
+	background: #000000;
+	text-align: left;
+	color: #FFFFFF;
+}
+
+/* wiki title */
+#header p {
+	width: 50%;
+	padding: 20px;
+	text-align: left;
+	font-family: "メイリオ", Meiryo, "ヒラギノ角ゴ Pro W6", "Hiragino Kaku Gothic Pro", "ＭＳ Ｐゴシック", sans-serif;
+	font-weight: bold;
+	font-size: 162%;	/* 21px */
+}
+
+#header p a {
+	color: #FFFFFF;
+}
+
+#header ul {
+	width: 410px;
+	height: 21px;
+	position: absolute;
+	right: 20px;
+	top: 0px;
+}
+
+#header ul li {
+	float: right;
+	margin-right: 5px;
+}
+
+#header .search {
+	position: absolute;
+	top: 30px;
+	width: 300px;
+	right: 20px;
+	text-align: right;
+}
+
+#header .search .search_form {
+	width: 120px;
+	margin-right: 2px;
+	margin-top: 2px;
+	border: 1px solid #000000;
+	background-color: #EAEAEA;
+	color: #3F3F3F;
+	text-align: left;
+	vertical-align: middle;
+	font-size: 85%;	/* 11px */
+}
+
+#header .search .search_btn {
+	padding: 0px 3px;
+	vertical-align: middle;
+}
+
+
+
+/* =Main (Common Setting)
+------------------------------------------------- */
+
+#main {
+	border: 1px solid #000000;
+	background-color: #FFFFFF;
+}
+
+#main .section {
+	width: 100%;
+	padding: 0 0 20px;
+	text-align: left;
+}
+
+/* Disclaimer */
+.style_message {
+	color: #FF0000;
+	font-weight: bold;
+	margin: 5px 0px;
+	text-align: center;
+}
+
+.content {
+	padding: 15px 10px;
+}
+
+.content table {
+	width: 100% !important;	/* for Modern browser */
+	width /* for IE5.5 */: 80%;
+	margin: 0 0 10px;
+	border-left: 1px solid #A1A1A1;
+	border-top: 1px solid #A1A1A1;
+	text-align: center;
+}
+
+.content th,
+.content td {
+	padding: 3px;
+	border-right: 1px solid #A1A1A1;
+	border-bottom: 1px solid #A1A1A1;
+	font-size: 85%;	/* 11px */
+}
+
+.content th {
+	background: #FFFFFF url(../../../../../design/default_black/images/header_bg.png) repeat 0 0;
+}
+
+.content .controlpanel {
+	clear: both;
+	margin-bottom: 10px;
+	padding: 10px;
+	border: 1px solid #A1A1A1;
+	background-color: #FAFAFA;
+	text-align: left;
+}
+
+.content .controlpanel p {
+	font-weight: bold;
+	margin: 0px 0px 10px;
+	vertical-align: middle;
+}
+
+.content .controlpanel fieldset,
+.newpage_space fieldset,
+.message fieldset,
+.edit_space fieldset {
+	border: none;
+	margin-bottom: 5px;
+	text-align: left;
+}
+
+.content .controlpanel #pass {
+	height: 20px;
+	margin-right: 5px;
+}
+
+.controlpanel #file {
+	height: 20px;
+	margin-right: 5px;
+}
+
+#main .section .modify_date {
+	text-align: right;
+	color: #A1A1A1;
+}
+
+#main .section .modify_date ul {
+	margin: 10px;
+}
+
+#main .section .modify_date li {
+	margin-bottom: 3px;
+}
+
+#main #pagetop {
+	padding: 0 10px 20px;
+	text-align: right;
+}
+
+
+
+/* =Page Title
+------------------------------------------------- */
+
+#main .section .page_title,
+#vpass .page_title {
+	margin:1px;
+	padding: 5px 10px 5px;
+	background-color: #000000;
+	color: #FFFFFF;
+	text-align: left;
+}
+
+
+
+/* =User Page style (Easy Edit Style)
+------------------------------------------------- */
+
+.user_body {
+	padding: 15px 10px;
+	text-align: left;
+}
+
+.user_body h2 {
+	margin-bottom: 5px;
+	padding: 3px 5px 3px 10px;
+	border: 1px solid #000000;
+	background: #FFFFFF url(../../../../../design/default_black/images/header_bg.png) repeat 0 0;
+	color: #000000;
+}
+
+.user_body h3 {
+	margin-bottom: 5px;
+	padding: 3px 5px 3px 3px;
+	border: solid #5E5E5E;
+	border-width: 1px 1px 1px 10px;
+	color: #5E5E5E;
+}
+
+.user_body h4 {
+	margin-bottom: 5px;
+	padding: 3px 5px 3px 4px;
+	border-bottom: 1px solid #5E5E5E;
+	border-left: 6px solid #5E5E5E;
+	color: #5E5E5E;
+}
+
+.user_body .ulist1 {
+	margin: 1px 0 1px 2em;
+	list-style-position: outside;
+	list-style-type: disc;
+}
+
+.user_body .ulist2 {
+	margin: 1px 0 1px 3em;
+	list-style-position: outside;
+	list-style-type: circle;
+}
+
+.user_body .ulist3 {
+	margin: 1px 0 1px 4em;
+	list-style-position: outside;
+	list-style-type: square;
+}
+
+.user_body .olist1 {
+	margin: 1px 0 1px 3em;
+	list-style-position: outside;
+	list-style-type: decimal;
+}
+
+.user_body .olist2 {
+	margin: 1px 0 1px 4em;
+	list-style-position: outside;
+	list-style-type: lower-alpha;
+}
+
+.user_body .olist3 {
+	margin: 1px 0 1px 5em;
+	list-style-position: outside;
+	list-style-type: lower-roman;
+}
+
+.user_body hr {
+	border-top: 1px solid #A1A1A1;	/*for Fx*/
+	border-right: none;
+	border-bottom: none;
+	border-left: none;
+	margin: 5px 0px;
+	color: #A1A1A1;					/*for IE*/
+}
+
+.user_body .table {
+	border-top: 1px solid #A1A1A1;
+	border-left: 1px solid #A1A1A1;
+	width: 80%;
+}
+
+.user_body th {
+	background: #FFFFFF url(../../../../../design/default_black/images/header_bg.png) repeat 0 0;
+	border-right: 1px solid #A1A1A1;
+	border-bottom: 1px solid #A1A1A1;
+	padding: 5px 10px;
+}
+
+.user_body td {
+	border-right: 1px solid #A1A1A1;
+	border-bottom: 1px solid #A1A1A1;
+	padding: 5px 10px;
+}
+
+.user_body p {
+	margin: 1em;
+}
+
+.user_body blockquote {
+	margin: 0.5em 1em;
+	padding: 1em;
+	color: #000000;
+	background: #FFFFFF url(../../../../../design/default_black/images/header_bg.png) repeat 0 0;
+	border-top: 1px solid #A1A1A1;
+	border-bottom: 1px solid #A1A1A1;
+}
+
+.user_body img {
+	padding: 5px;
+	background-color: #FFFFFF;
+	border: 1px solid #EAEAEA;
+	margin: 0 5px 5px 0;
+}
+
+
+
+/* =Pager
+------------------------------------------------- */
+
+.pager {
+	margin-bottom: 10px;
+	margin-top: 10px;
+	padding: 2px 0px;
+	text-align: center;
+	width: 100%;
+	font-size: 78%;		/* 10px */
+}
+
+.pager strong {
+	margin-right: 3px;
+	padding: 1px 5px;
+	position: relative;
+	left: 1px;
+	top: 1px;
+	border: 1px solid #A1A1A1;
+	background-color: #806BDD;
+	color: #FFFFFF;
+}
+
+.pager a {
+	left: 1px;
+	margin-right: 3px;
+	padding: 1px 5px;
+	position: relative;
+	top: 1px;
+	border: 1px solid #A1A1A1;
+}
+
+.pager a:link,
+.pager a:visited {
+	color: #A1A1A1;
+}
+
+.pager a:focus,
+.pager a:hover,
+.pager a:active {
+	background-color: #5D52A8;
+	color: #FFFFFF;
+}
+
+
+
+/* =Page Edit
+------------------------------------------------- */
+
+.edit_space fieldset input {
+	vertical-align: middle;
+}
+
+.edit_space fieldset label {
+	display: block;
+	padding-bottom: 5px;
+}
+
+.edit_space .edit_area {
+	margin-bottom: 15px;
+}
+
+.edit_space #toolbar {
+	margin: 0 0 5px;
+	padding: 5px;
+	background-color: #FAFAFA;
+	border: 1px solid #EAEAEA;
+}
+
+/* Restoration link */
+.edit_space .history a {
+	display: block;
+	width: 6em;
+	height: 2em;
+	line-height: 2em;
+	text-align: center;
+	border: 1px solid #A1A1A1;
+	background-color: #5D52A8;
+	color: #FFFFFF;
+}
+
+.edit_space .history a:hover {
+	background-color: #806BDD;
+}
+
+.edit_space .edit_message {
+	border: 1px solid #FF0000;
+	background-color: #FFFFFF;
+	padding: 10px;
+	margin-bottom: 20px;
+}
+
+.edit_space .edit_message_title {
+	color: #FF0000;
+}
+
+.edit_space .edit_title {
+	padding-bottom: 20px;
+}
+
+
+
+/* =History Page
+------------------------------------------------- */
+
+/* List page */
+.history_space .restoration_list {
+	margin-bottom: 10px;
+}
+
+.history_space #pass {
+	margin-right: 5px;
+}
+
+.history_space .returnpage {
+	margin: 0 0 10px;
+}
+
+/* Restoration */
+.message {
+	margin: 5px 5px 20px;
+	background-color: #FAFAFA;
+	border: 1px solid #EAEAEA;
+}
+
+.message .history_link {
+	color: #999999;
+	margin: 15px;
+	text-align: center;
+}
+
+.message .history_link a {
+	padding: 0 5px;
+}
+
+.message p {
+	margin-bottom: 10px;
+}
+
+.message fieldset #pass {
+	width: 100px;
+}
+
+
+
+/* =Management (Image,Page)
+------------------------------------------------- */
+
+/* Table style */
+.pmanage_space table .lock,
+.imanage_space table .lock {
+	width: 20px;
+}
+
+.pmanage_space table .check,
+.imanage_space table .check {
+	width: 20px;
+}
+
+.pmanage_space table th.ptitle,
+.imanage_space table th.ititle {
+	line-height: 1.3;
+	text-align: center;
+	width: auto;
+}
+
+.pmanage_space table td.ptitle,
+.imanage_space table td.ititle {
+	line-height: 1.3;
+	text-align: left;
+	width: auto;
+}
+
+.pmanage_space table .ititle p,
+.imanage_space table .ititle p {
+	margin: 0 0 3px
+}
+
+.pmanage_space table .ititle input,
+.imanage_space table .ititle input {
+	width: 200px;
+}
+
+.pmanage_space table .edit,
+.imanage_space table .edit {
+	width: 30px;
+}
+
+.pmanage_space table .copy,
+.imanage_space table .copy {
+	width: 30px;
+}
+
+.imanage_space table .size {
+	width: 65px;
+}
+
+.pmanage_space table .day,
+.imanage_space table .day {
+	width: 80px;
+}
+
+.imanage_space table .thumb {
+	padding: 5px 0px;
+	width: 55px;
+}
+
+.imanage_space .thumb img {
+	width: 50px;
+}
+
+/* File upload */
+.imanage_space .controlpanel .file_upload {
+	margin:10px;
+}
+
+.imanage_space .controlpanel .file_upload ul li input {
+	margin-right: 5px;
+}
+
+.imanage_space .controlpanel .file_upload #upload_form {
+	margin:10px 0;
+}
+
+.imanage_space .controlpanel .file_upload #upload_form a {
+	display: block;
+	padding-left: 15px;
+}
+
+.imanage_space .controlpanel .file_upload #upload_form .close {
+	background-image: url(../../../../../img/btn_plus.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+}
+
+.imanage_space .controlpanel .file_upload #upload_form .open {
+	background-image: url(../../../../../img/btn_minus.png);
+	background-position: left center;
+	background-repeat: no-repeat;
+}
+
+.imanage_space .controlpanel .file_upload #multi_upload {
+	margin:0 0 10px;
+}
+
+.imanage_space .controlpanel .file_upload #multi_upload li {
+	margin:0 0 5px;
+}
+
+
+
+/* =Search Result
+------------------------------------------------- */
+
+.search_result .searchlist dt a {
+	font-weight: bold;
+	font-size: 116%;	/* 15px */
+}
+
+.search_result .searchlist .words {
+	background-color: #C9C3F4;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.search_result .searchlist .modify_date {
+	margin: 0 0 1em;
+	padding-bottom: 5px;
+	border-bottom: 1px dotted #A1A1A1;
+}
+
+
+
+/* =View password
+------------------------------------------------- */
+
+#vpass {
+	background-color:#FFFFFF;
+	border:1px solid #000000;
+}
+
+#vpass .content {
+	padding: 20px;
+}
+
+#vpass .content h2 {
+	margin-bottom: 5px;
+	padding: 5px;
+	border: 1px solid #000000;
+	background: #FFFFFF url(../../../../../design/default_black/images/header_bg.png) repeat 0 0;
+	color: #000000;
+	text-align: left;
+}
+
+#vpass .content dl {
+	margin: 0px 20px 10px;
+	text-align: left;
+}
+
+#vpass .content dt {
+	font-weight: bold;
+}
+
+#vpass .content dd {
+	margin-bottom: 15px;
+}
+
+#vpass .content input {
+	font-size: 108%;	/* 14px */
+}
+
+
+
+/* =Side menu
+------------------------------------------------- */
+
+.menubox {
+	text-align: left;
+}
+
+.menubox .section {
+	margin:0 0 15px;
+	background-color: #FFFFFF;
+	border: 1px solid #000000;
+}
+
+.menubox .section .side_title {
+	background-color: #000000;
+	margin: 1px;
+	padding: 5px 10px 5px;
+	text-align: left;
+	color: #FFFFFF;
+}
+
+.menubox .section ul li {
+	margin-left: 15px;
+	list-style-position: outside;
+	list-style-type: disc;
+}
+
+.menubox .section ol li {
+	margin-left: 20px;
+	list-style-position: outside;
+	list-style-type: decimal;
+}
+
+.menubox .menubody {
+	padding: 10px 5px;
+}
+
+/* Recent update */
+#plg_recent .menubody .modify_date {
+	margin: 0px;
+	list-style: none;
+	color: #000000;
+}
+
+/* User menu */
+#plg_menu .menubody h2 {
+	margin-bottom: 5px;
+	padding: 3px 5px 3px 10px;
+	border: 1px solid #000000;
+	background: #FFFFFF url(../../../../../design/default_black/images/header_bg.png) repeat 0 0;
+	color: #000000;
+	font-size: 100%;	/* 13px */
+}
+
+#plg_menu .menubody h3 {
+	margin-bottom: 5px;
+	padding: 3px 5px 3px 3px;
+	border: solid #5E5E5E;
+	border-width: 1px 1px 1px 10px;
+	color: #5E5E5E;
+	font-size: 100%;	/* 13px */
+}
+
+#plg_menu .menubody h4 {
+	margin-bottom: 5px;
+	padding: 3px 5px 3px 4px;
+	border-bottom: 1px solid #5E5E5E;
+	border-left: 6px solid #5E5E5E;
+	color: #5E5E5E;
+	font-size: 100%;	/* 13px */
+}
+
+#plg_menu .menubody .ulist1 {
+	margin: 1px 0 1px 1em;
+	list-style-position: outside;
+	list-style-type: disc;
+}
+
+#plg_menu .menubody .ulist2 {
+	margin: 1px 0 1px 1.5em;
+	list-style-position: outside;
+	list-style-type: circle;
+}
+
+#plg_menu .menubody .ulist3 {
+	margin: 1px 0 1px 2em;
+	list-style-position: outside;
+	list-style-type: square;
+}
+
+#plg_menu .menubody .olist1 {
+	margin: 1px 0 1px 2em;
+	list-style-position: outside;
+	list-style-type: decimal;
+}
+
+#plg_menu .menubody .olist2 {
+	margin: 1px 0 1px 2.5em;
+	list-style-position: outside;
+	list-style-type: lower-alpha;
+}
+
+#plg_menu .menubody .olist3 {
+	margin: 1px 0 1px 3em;
+	list-style-position: outside;
+	list-style-type: lower-roman;
+}
+
+#plg_menu .menubody hr {
+	border-top: 1px solid #A1A1A1;	/*for Fx*/
+	border-right: none;
+	border-bottom: none;
+	border-left: none;
+	margin: 5px 0px;
+	color: #A1A1A1;					/*for IE*/
+}
+
+#plg_menu .menubody .table {
+	border-top: 1px solid #A1A1A1;
+	border-left: 1px solid #A1A1A1;
+	width: 80%;
+}
+
+#plg_menu .menubody th {
+	background: #FFFFFF url(../../../../../design/default_black/images/header_bg.png) repeat 0 0;
+	border-right: 1px solid #A1A1A1;
+	border-bottom: 1px solid #A1A1A1;
+	padding: 5px 10px;
+}
+
+#plg_menu .menubody td {
+	border-right: 1px solid #A1A1A1;
+	border-bottom: 1px solid #A1A1A1;
+	padding: 5px 10px;
+}
+
+#plg_menu .menubody p {
+	margin: 0.5em 1em;
+}
+
+#plg_menu .menubody blockquote {
+	margin: 0.5em 1em;
+	padding: 1em;
+	color: #000000;
+	background: #FFFFFF url(../../../../../design/default_black/images/header_bg.png) repeat 0 0;
+	border-top: 1px solid #A1A1A1;
+	border-bottom: 1px solid #A1A1A1;
+}
+
+#plg_menu .menubody img {
+	padding: 5px;
+	background-color: #FFFFFF;
+	border: 1px solid #EAEAEA;
+	margin: 0 5px 5px 0;
+}
+
+
+
+/* =Footer
+------------------------------------------------- */
+
+#footer {
+	color: #FFFFFF;
+	background-color: #000000;
+	font-size: 85%;
+}
+
+#footer ul {
+	position: relative;
+	width: 100%;
+	padding: 10px 0 0;
+	overflow: hidden;
+}
+
+#footer li {
+	float: right;
+	margin-right: 15px;
+	margin-top: 2px;
+}
+
+#footer .ad {
+	float: left;
+	width: 300px;
+	padding: 10px 0px 10px 20px;
+	text-align: left;
+}
+
+#footer .copyright {
+	float: right;
+	width: 450px;
+	padding: 10px 20px 10px 0px;
+	text-align: right;
+}
+

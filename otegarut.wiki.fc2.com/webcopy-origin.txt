@@ -1,0 +1,836 @@
+Uri: https://counter1.fc2.com/counter.php?id=89481492
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\counter.php
+Content Type: application/x-javascript
+
+Uri: https://counter1.fc2.com/counter_img.php?id=89481492
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\counter_img.php
+Content Type: image/gif
+
+Uri: https://otegarut.wiki.fc2.com/
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-33.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=いろは坂　もどき
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-60.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=おかしいコース
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-58.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=ぐるぐるステージ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-56.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=アプデ情報
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-7.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=オンラインモードについて
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-16.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=ゲームについて
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-5.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=コーンだらけのアクロバッ峠ｰ改良版
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-54.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=コーンだらけの周回ステージ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-51.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=ステージデータ公開広場(編集可能)
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-14.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=ステージ例
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-13.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=トップページ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-1.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=バグ報告ページ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-28.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=メニュー
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-8.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=レース対CP
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-10.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=使い方
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-11.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=取り敢えず作ったステージ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-52.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=命令およびデータ一覧
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-12.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=夏名山
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-49.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=峠っぽくないステージ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-53.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=思いつきで作ったコース！
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-62.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=投稿方法
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-15.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=掲示板
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-26.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=書式例
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-47.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=溝落としステージ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-55.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=確認済みのバグ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-27.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=赤日山
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-50.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=開発者のひとりごと
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-3.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=About Online Game
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-42.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=About the game
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-31.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Baguio Touge Course
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-63.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Bulletin board
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-46.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Car MOD 配布広場
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-20.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Car MODとは
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-17.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Car MODの作り方
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-19.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Car MODの使い方
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-18.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Developer's Soliloquy
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-36.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Drifting practice 1
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-61.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Format Example
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-48.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=How to create a Car MOD
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-30.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=How to create a StageMOD
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-29.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=How to Share
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-41.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=How to use Car MOD
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-44.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=How to use LoadStage
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-38.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=How to use StageMOD
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-45.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Instruction and data list
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-37.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Irohazaka downhill
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-57.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Q＆A
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-6.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Race vs CP
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-35.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Stage example
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-40.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=StageMOD 配布広場
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-25.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=StageMOD from URL
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-24.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=StageMODとは
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-21.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=StageMODの作り方
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-23.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=StageMODの使い方
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-22.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Time Attack モード
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-9.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Time Attack Mode
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-39.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Top page
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-2.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=UP DOWNが激しめなコース
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-59.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Update News
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-34.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=What is Car MOD about
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-43.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=What is StageMOD about
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-32.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/?cmd=auth&page=Wikiからのお知らせ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\index-4.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/auth_image_url.php?key=0d21f5d2e7bc2d46880baa74c24a3ce76620f769451c9
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\auth_image_url-1.php
+Content Type: image/gif
+
+Uri: https://otegarut.wiki.fc2.com/auth_image_url.php?key=3d09fff7110aee1947fa1317ea8beebe6620f76a1bf4d
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\auth_image_url-2.php
+Content Type: image/gif
+
+Uri: https://otegarut.wiki.fc2.com/auth_image_url.php?key=63562e75b811070d019ebfe47b5d129a6620f7b856b6d
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\auth_image_url-4.php
+Content Type: image/gif
+
+Uri: https://otegarut.wiki.fc2.com/auth_image_url.php?key=9d20d37a4ce37ca081f7faae1259b2ec6620f760d58f8
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\auth_image_url.php
+Content Type: image/gif
+
+Uri: https://otegarut.wiki.fc2.com/auth_image_url.php?key=dc9cd421e0dd8b61aebdef4ddfcf42fe6620f77aecfd7
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\auth_image_url-3.php
+Content Type: image/gif
+
+Uri: https://otegarut.wiki.fc2.com/comment/コメント1/
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\comment\コメント1\index.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/comment/コメント2/
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\comment\コメント2\index.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/comment/コメント3/
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\comment\コメント3\index.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/comment/コメント4/
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\comment\コメント4\index.htm
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/css/110405header_menu.css
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\css\110405header_menu.css
+Content Type: text/css
+
+Uri: https://otegarut.wiki.fc2.com/css/default.css
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\css\default.css
+Content Type: text/css
+
+Uri: https://otegarut.wiki.fc2.com/css/o/t/e/otegarut/design.css
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\css\o\t\e\otegarut\design.css
+Content Type: text/css
+
+Uri: https://otegarut.wiki.fc2.com/design/default_black/images/bg.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\design\default_black\images\bg.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/design/default_black/images/header_bg.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\design\default_black\images\header_bg.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/img/100416headermenu.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\img\100416headermenu.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/img/blank.gif
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\img\blank.gif
+Content Type: image/gif
+
+Uri: https://otegarut.wiki.fc2.com/img/btn_minus.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\img\btn_minus.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/img/btn_plus.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\img\btn_plus.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/img/cancel.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\img\cancel.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/img/dropmenu_open.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\img\dropmenu_open.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/img/headermenu.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\img\headermenu.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/img/icon_jump.gif
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\img\icon_jump.gif
+Content Type: image/gif
+
+Uri: https://otegarut.wiki.fc2.com/img/overlay.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\img\overlay.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/js/default.js?20130417
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\js\default.js
+Content Type: application/x-javascript
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/063ecb30f11fcec2010ea7be0d8bacd0.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\063ecb30f11fcec2010ea7be0d8bacd0.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/13736d22d479f71abf79b5966af0f99c.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\13736d22d479f71abf79b5966af0f99c.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/146f1805dac77b2d399e2a27c2c352ba.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\146f1805dac77b2d399e2a27c2c352ba.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/1b12b69a115fc72b00ae1a817c86576d.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\1b12b69a115fc72b00ae1a817c86576d.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/1b3990f2d921eca15d2e0962fdcc4f63.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\1b3990f2d921eca15d2e0962fdcc4f63.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/1b5649fbf3bc8ddbc5ac13318fc4bf58.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\1b5649fbf3bc8ddbc5ac13318fc4bf58.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/1c85edbbcfbe8ab9c14a9f2abe62975a.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\1c85edbbcfbe8ab9c14a9f2abe62975a.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/1dad20c8148b5848593eb4d513d8b312.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\1dad20c8148b5848593eb4d513d8b312.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/20fd7a73552eb78d3f40598707716cb3.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\20fd7a73552eb78d3f40598707716cb3.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/248d872fc33fc624f9d14b1d13759a0b.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\248d872fc33fc624f9d14b1d13759a0b.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/25f76f22c5793b0b455606fb081466c7.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\25f76f22c5793b0b455606fb081466c7.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/284362e1db46d35ff8955dd0681a101a.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\284362e1db46d35ff8955dd0681a101a.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/28d28ddf3cc4fa858f4eec4585a418f6.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\28d28ddf3cc4fa858f4eec4585a418f6.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/31b80f8e7dc164f18e9b26585f3cfd22.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\31b80f8e7dc164f18e9b26585f3cfd22.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/3b3587c413940df7ec9957ce06e9ae23.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\3b3587c413940df7ec9957ce06e9ae23.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/3e81a179fbfb9823305a89fc12cac7fa.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\3e81a179fbfb9823305a89fc12cac7fa.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/4aa201ef3494850a980c93320aae359b.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\4aa201ef3494850a980c93320aae359b.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/4acf1922922c83bb9d4973ff3aa94e85.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\4acf1922922c83bb9d4973ff3aa94e85.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/4b2c77473f1ba3b9d4acbae684215394.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\4b2c77473f1ba3b9d4acbae684215394.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/517cfacd2fd784d75b86ff7308d06ada.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\517cfacd2fd784d75b86ff7308d06ada.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/53157e958208c992655ded05295d1b4e.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\53157e958208c992655ded05295d1b4e.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/5d3232c334013f35020f5d18d0b9ef34.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\5d3232c334013f35020f5d18d0b9ef34.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/5f996666fa65dcc532ea9d3f9817c3bd.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\5f996666fa65dcc532ea9d3f9817c3bd.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/6125e08ec84628ab95032bc73f076fa9.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\6125e08ec84628ab95032bc73f076fa9.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/62b6fe86cc1b877bbed708c3ffcb86f9.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\62b6fe86cc1b877bbed708c3ffcb86f9.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/65de88806127f66cf07973a30010e7b8.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\65de88806127f66cf07973a30010e7b8.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/6a3290a4228328b4111d1a15ae7b75d5.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\6a3290a4228328b4111d1a15ae7b75d5.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/6a6833e0ef409214b4f9364ece674ebc.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\6a6833e0ef409214b4f9364ece674ebc.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/708d7f7316b49d44b3282c99cdb9028b.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\708d7f7316b49d44b3282c99cdb9028b.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/737aa0ed658156870a49c1c24eee9dbf.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\737aa0ed658156870a49c1c24eee9dbf.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/737ad55aafd958cb7ae1c064fc0f7ad1.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\737ad55aafd958cb7ae1c064fc0f7ad1.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/74b83ed846171c275fdcd29f31e59877.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\74b83ed846171c275fdcd29f31e59877.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/75926e389b82b095dd2c8ae4a739e5a1.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\75926e389b82b095dd2c8ae4a739e5a1.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/872705d1b8cfbac05726198c31f33c65.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\872705d1b8cfbac05726198c31f33c65.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/949577ac82cb106c7f2781d17d10c796.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\949577ac82cb106c7f2781d17d10c796.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/9647e8b443253c87a9d848782b24d9db.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\9647e8b443253c87a9d848782b24d9db.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/9a3ba127870e298583d49c68ddbb5b1a.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\9a3ba127870e298583d49c68ddbb5b1a.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/9c31a2900b24a06d368c3ec6115c9070.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\9c31a2900b24a06d368c3ec6115c9070.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/a628f62f12768f2a1e972f500cc3165b.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\a628f62f12768f2a1e972f500cc3165b.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/abc18b3906da46b10413c997e2460617.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\abc18b3906da46b10413c997e2460617.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/b948cd5e0bf4e97cb0cbb6d9ce30135e.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\b948cd5e0bf4e97cb0cbb6d9ce30135e.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/ba953cc4d63e2f0e97ff61bf1a189049.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\ba953cc4d63e2f0e97ff61bf1a189049.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/c8fcd36f7486f315b1251046cea3c8fc.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\c8fcd36f7486f315b1251046cea3c8fc.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/ca13845529327bf12db19a113e6f8c2e.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\ca13845529327bf12db19a113e6f8c2e.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/cb1c2ee557fe18d6ad16cd9f28c0cf78.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\cb1c2ee557fe18d6ad16cd9f28c0cf78.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/cca400b81295accf60bc420970550b4b.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\cca400b81295accf60bc420970550b4b.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/d8bd087f141aae0ccf7ee8fd48ec52cf.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\d8bd087f141aae0ccf7ee8fd48ec52cf.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/e2f906d00c67181f6cf90296e9b027fb.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\e2f906d00c67181f6cf90296e9b027fb.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/f2498cd3ea5bdd2ca309e30b6a117bbd.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\f2498cd3ea5bdd2ca309e30b6a117bbd.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/thumb_248d872fc33fc624f9d14b1d13759a0b.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\thumb_248d872fc33fc624f9d14b1d13759a0b.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/thumb_4b2c77473f1ba3b9d4acbae684215394.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\thumb_4b2c77473f1ba3b9d4acbae684215394.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/thumb_6a6833e0ef409214b4f9364ece674ebc.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\thumb_6a6833e0ef409214b4f9364ece674ebc.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/thumb_737ad55aafd958cb7ae1c064fc0f7ad1.jpeg
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\thumb_737ad55aafd958cb7ae1c064fc0f7ad1.jpeg
+Content Type: image/jpeg
+
+Uri: https://otegarut.wiki.fc2.com/upload_dir/o/otegarut/thumb_949577ac82cb106c7f2781d17d10c796.png
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\upload_dir\o\otegarut\thumb_949577ac82cb106c7f2781d17d10c796.png
+Content Type: image/png
+
+Uri: https://otegarut.wiki.fc2.com/wiki/いろは坂　もどき
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\いろは坂　もどき.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/おかしいコース
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\おかしいコース.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/ぐるぐるステージ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\ぐるぐるステージ.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/わけわからんコース
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\わけわからんコース.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/アプデ情報
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\アプデ情報.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/オンラインモードについて
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\オンラインモードについて.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/ゲームについて
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\ゲームについて.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/コーンだらけのアクロバッ峠ｰ改良版
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\コーンだらけのアクロバッ峠ｰ改良版.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/コーンだらけの周回ステージ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\コーンだらけの周回ステージ.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/ステージデータ公開広場%2528編集可能)
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\ステージデータ公開広場%28編集可能).html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/ステージデータ公開広場(編集可能)
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\ステージデータ公開広場(編集可能).html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/ステージ例
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\ステージ例.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/トップページ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\トップページ-1.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/トップページ?pc
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\トップページ.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/バグ報告ページ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\バグ報告ページ.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/メニュー
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\メニュー.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/レース対CP
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\レース対CP.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/使い方
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\使い方.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/取り敢えず作ったステージ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\取り敢えず作ったステージ.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/命令およびデータ一覧
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\命令およびデータ一覧.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/夏名山
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\夏名山.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/峠っぽくないステージ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\峠っぽくないステージ.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/思いつきで作ったコース！
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\思いつきで作ったコース！.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/投稿方法
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\投稿方法.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/掲示板
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\掲示板.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/書式例
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\書式例.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/溝落としステージ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\溝落としステージ.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/確認済みのバグ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\確認済みのバグ.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/赤日山
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\赤日山.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/開発者のひとりごと
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\開発者のひとりごと.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/About Online Game
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\About Online Game.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/About the game
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\About the game.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Baguio Touge Course
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Baguio Touge Course.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Bulletin Board
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Bulletin Board.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Car MOD 配布広場
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Car MOD 配布広場.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Car MODとは
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Car MODとは.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Car MODの作り方
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Car MODの作り方.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Car MODの使い方
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Car MODの使い方.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Developer's Soliloquy
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Developer's Soliloquy.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Drifting practice 1
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Drifting practice 1.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Format Example
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Format Example.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/How to create a Car MOD
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\How to create a Car MOD.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/How to create a StageMOD
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\How to create a StageMOD.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/How to share
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\How to share.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/How to use Car MOD
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\How to use Car MOD.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/How to use LoadStage
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\How to use LoadStage.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/How to use StageMOD
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\How to use StageMOD.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Instruction and data list
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Instruction and data list.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Irohazaka downhill
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Irohazaka downhill.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Q＆A
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Q＆A.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Race vs CP
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Race vs CP.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Stage example
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Stage example.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/StageMOD 配布広場
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\StageMOD 配布広場.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/StageMOD from URL
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\StageMOD from URL.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/StageMODとは
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\StageMODとは.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/StageMODの作り方
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\StageMODの作り方.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/StageMODの使い方
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\StageMODの使い方.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Time Attack モード
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Time Attack モード.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Time Attack mode
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Time Attack mode.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Top page
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Top page.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/UP DOWNが激しめなコース
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\UP DOWNが激しめなコース.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/Update News
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\Update News.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/What is Car MOD about
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\What is Car MOD about.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/What is StageMOD about
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\What is StageMOD about.html
+Content Type: text/html
+
+Uri: https://otegarut.wiki.fc2.com/wiki/wikiからのお知らせ
+File Name: C:\Users\ryk\Downloads\wiki\otegarut.wiki.fc2.com\wiki\wikiからのお知らせ.html
+Content Type: text/html
+
